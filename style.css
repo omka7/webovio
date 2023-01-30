@@ -255,7 +255,7 @@ ul{
 		padding: 70px 0;
 	}
 
-	.service-list {
+.service-list {
 		padding-top: 30px;
 		display: grid;
 		gap: 11px;
@@ -265,6 +265,6 @@ ul{
 		background-image: url(img/bi1.jpg);
 		color: white;
 		padding-top: 270px;
-		width: 115%;
+		width: 120%;
 	}
 }
