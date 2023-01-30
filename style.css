@@ -261,5 +261,10 @@ ul{
 		gap: 11px;
 		grid-template-columns: repeat(4, 1fr);
 	}
-
+.footer {
+		background-image: url(img/bi1.jpg);
+		color: white;
+		padding-top: 270px;
+		width: 115%;
+	}
 }
