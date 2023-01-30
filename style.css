@@ -141,7 +141,7 @@ ul{
 	top: 160px;
 	background-color: #fafafa;
 	padding: 70px 0;
-	width: 80%;
+
 }
 .g-t-title{
 	margin: 0;
@@ -238,7 +238,7 @@ ul{
 }
 @media only screen and (max-width: 892px) {
 	header {
-		width: 476px;
+		width: 460px;
 	}
 
 .footer-middle {
@@ -265,6 +265,6 @@ ul{
 		background-image: url(img/bi1.jpg);
 		color: white;
 		padding-top: 270px;
-		width: 120%;
+		width: 110%;
 	}
 }
